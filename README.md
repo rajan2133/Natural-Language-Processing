@@ -36,7 +36,7 @@ Learn and implement basic text preprocessing techniques to extract meaningful in
 
 Implement matrix representation, Bag of Words model, Count Vectorizer, TF-IDF Vectorizer, and Cosine Similarity.
 
-## 4. Understand the pre-trained Word2Vec model and build Word2Vec model from scratch:
+## 4. Word2Vec model:
 
 Understand pre-trained Word2Vec models and build a Word2Vec model from scratch.
 
